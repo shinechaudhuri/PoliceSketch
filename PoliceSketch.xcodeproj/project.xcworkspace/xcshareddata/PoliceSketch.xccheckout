@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>32FD1212-035E-4184-912E-53F4D2C76D3D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PoliceSketch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>517CEBB3B38AF8D49B912B914B8B407463D65AB2</key>
+		<string>https://github.com/lighthouse-labs/iOS-Student-PoliceSketch.git</string>
+		<key>F5477568C97745FA96273095045BF241FCA244A0</key>
+		<string>https://github.com/dannylm/PycharmProjects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PoliceSketch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>517CEBB3B38AF8D49B912B914B8B407463D65AB2</key>
+		<string>../..</string>
+		<key>F5477568C97745FA96273095045BF241FCA244A0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lighthouse-labs/iOS-Student-PoliceSketch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>517CEBB3B38AF8D49B912B914B8B407463D65AB2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5477568C97745FA96273095045BF241FCA244A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>517CEBB3B38AF8D49B912B914B8B407463D65AB2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Student-PoliceSketch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
